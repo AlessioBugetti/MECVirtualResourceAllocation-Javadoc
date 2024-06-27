@@ -2,7 +2,7 @@
 
 [![License](https://img.shields.io/badge/License-GPL--3.0-blue.svg)](https://opensource.org/licenses/GPL-3.0)
 
-Welcome to the repository hosting the Javadoc documentation for the MEC Virtual Resource Allocation project. This repository is automatically updated with the latest Javadoc whenever a push is made to the main repository.
+Welcome to the repository hosting the Javadoc documentation for the [MEC Virtual Resource Allocation project](https://github.com/AlessioBugetti/MECVirtualResourceAllocation). This repository is automatically updated with the latest Javadoc whenever a push is made to the main repository.
 
 ## Table of Contents
 
@@ -13,7 +13,7 @@ Welcome to the repository hosting the Javadoc documentation for the MEC Virtual 
 
 ## Introduction
 
-This repository contains the Javadoc documentation for the MEC Virtual Resource Allocation project, which implements a hypergraph matching approach for efficient virtual machine (VM) placement and resource allocation in Mobile Edge Computing (MEC) environments.
+This repository contains the Javadoc documentation for the [MEC Virtual Resource Allocation](https://github.com/AlessioBugetti/MECVirtualResourceAllocation) project, which implements a hypergraph matching approach for efficient virtual machine (VM) placement and resource allocation in Mobile Edge Computing (MEC) environments.
 
 ## Accessing the Documentation
 
