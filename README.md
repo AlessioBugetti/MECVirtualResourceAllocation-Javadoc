@@ -25,12 +25,13 @@ The latest Javadoc documentation is available online and can be accessed at the 
 
 The repository structure is as follows:
 
+```
 .
 ├── docs
 │   └── index.html
 ├── LICENSE
 └── README.md
-
+```
 
 - `docs/`: Contains the generated Javadoc documentation.
 - `index.html`: Entry point for the Javadoc documentation.
