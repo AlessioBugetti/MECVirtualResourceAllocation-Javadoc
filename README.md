@@ -1,6 +1,6 @@
 # MECVirtualResourceAllocation-Javadoc
 
-[![License](https://img.shields.io/badge/License-GPL--3.0-blue.svg)](https://opensource.org/licenses/GPL-3.0)
+[![License](https://img.shields.io/github/license/AlessioBugetti/MECVirtualResourceAllocation)](https://opensource.org/licenses/GPL-3.0)
 
 Welcome to the repository hosting the Javadoc documentation for the [MEC Virtual Resource Allocation project](https://github.com/AlessioBugetti/MECVirtualResourceAllocation). This repository is automatically updated with the latest Javadoc whenever a push is made to the main repository.
 
