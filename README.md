@@ -41,7 +41,3 @@ The repository structure is as follows:
 ## License
 
 This project is licensed under the GPL-3.0 License. See the LICENSE file for more details.
-
-------------------------------------------------------------
-
-Thank you for visiting the MEC Virtual Resource Allocation Javadoc repository. For any questions or feedback, please open an issue on GitHub.
